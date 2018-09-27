@@ -33,17 +33,17 @@ header, .experience {
 
 @media screen and (max-width:825px) {
 	.headshot{
-display: block;
-float: none;
+		display: block;
+		float: none;
 	}
 	.right{width: auto;
-	text-align:center;
-	float: none;
-	display: block;
-}
+		text-align:center;
+		float: none;
+		display: block;
+	}
 	.left{width: auto;
-	text-align: center;
-/* margin-left: 50px} */
+		text-align: center;
+		/* margin-left: 50px} */
 
 
 }
